@@ -1,10 +1,10 @@
 {
-  "version": "0.5.1",
+  "version": "0.5.2",
   "description": "FabledOS — hidden-daemon CLI for parallel AI software development",
   "homepage": "https://fabledos.com",
   "license": "Apache-2.0",
-  "url": "https://github.com/himudianda/fabled-releases/releases/download/v0.5.1/fabled-0.5.1-x86_64-pc-windows-msvc.zip",
-  "hash": "f3992285d88c14ddf35e1c0ebff24197f9f43986a2fb6f86cb9789a13ee11cc5",
+  "url": "https://github.com/himudianda/fabled-releases/releases/download/v0.5.2/fabled-0.5.2-x86_64-pc-windows-msvc.zip",
+  "hash": "34cf9499a780d8846b3a4a83831e87a8f944c37b9a4de21ea693a78b73a2d42e",
   "bin": "fabled.exe",
   "checkver": { "github": "https://github.com/himudianda/fabled-releases" },
   "autoupdate": {
